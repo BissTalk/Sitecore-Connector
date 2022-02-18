@@ -1,9 +1,9 @@
 <project>
   <Metadata>
     <metadata>
-      <PackageName>Brightcove Video Connect for Sitecore 10.1.0.1</PackageName>
+      <PackageName>Brightcove Video Connect for Sitecore 10.2.0.0</PackageName>
       <Author>Brightcove Inc.</Author>
-      <Version>10.1.10.1</Version>
+      <Version>10.2.0.0</Version>
       <Revision />
       <License />
       <Comment />

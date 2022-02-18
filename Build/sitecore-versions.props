@@ -1,0 +1,11 @@
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup Condition="'$(SitecoreVersion)' == ''">
+		<SitecoreVersion>10.2.0</SitecoreVersion>
+	</PropertyGroup>
+  <PropertyGroup Condition="'$(SitecoreVersion)' == '10.1.0'">
+    <DataExchangeVersion>6.0.0</DataExchangeVersion>
+  </PropertyGroup>
+	<PropertyGroup Condition="'$(SitecoreVersion)' == '10.2.0'">
+    <DataExchangeVersion>7.0.0</DataExchangeVersion>
+  </PropertyGroup>
+</Project>
