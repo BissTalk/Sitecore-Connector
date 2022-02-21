@@ -271,7 +271,7 @@
     <Content Include="App_Config\Include\Brightcove\Brightcove.Settings.CM.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.UI.IdentityServer.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Brightcove.config" />
-    <Content Include="App_Config\Include\Unicorn\Unicorn.DataProvider.10.1.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.DataProvider.config" />
     <Content Include="sitecore modules\Web\Brightcove\Views\EmbedMedia.cshtml" />
     <Content Include="sitecore modules\Web\Brightcove\css\bootstrap-grid.css.map" />
     <Content Include="sitecore modules\Web\Brightcove\css\bootstrap-grid.min.css.map" />
